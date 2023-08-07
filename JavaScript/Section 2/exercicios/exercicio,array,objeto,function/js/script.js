@@ -1,0 +1,3 @@
+function meuEscopo (){
+    let nome
+}

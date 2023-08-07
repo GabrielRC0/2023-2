@@ -1,0 +1,2 @@
+Extensão utilizada: code runner que permite rodar scripts js pelo visual code
+ 

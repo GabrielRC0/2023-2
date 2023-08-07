@@ -1,0 +1,17 @@
+Seção 1: Configuração de ambiente
+Seção 2: JS Basico
+Seção 3: JS e lógica de programação
+Seção 4: Funções e JS
+Seção 5: JS Arrays
+Seção 6: JS Objetos e Prototypes
+Seção 7: JS Classes - programação orientada a Objetos
+Seção 8: JS assíncrono - Promises, Ajax, Fetch e Async/Await
+Seção 9: JS tooling e ES6 Modules
+Seção 10: JS - NODE, NPM, EXPRESS e MONGODB
+Seção 11: Projeto Agenda
+Seção 12: Linux Deploy + chave SSH
+Seção 13: API Rest
+Seção 14, 15 e 16: Estarão no repositorio de React 
+Seção 17: Expressões regulares em JS - REGEX
+
+A partir daqui as outras seções serão encontradas na parte de TypeScript! 	(*￣▽￣)b
