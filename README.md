@@ -9,13 +9,18 @@ Este repositório foi criado para organizar, demonstrar e compartilhar os conte�
 
 ## **Roadmap de Tecnologia**
 1. **JavaScript:** Aprenda comigo [aqui](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/).
-2. **TypeScript:** Estou aprendendo usando [este curso](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/), que também cobre JavaScript.
-3. **Node.JS e Express:** Estou seguindo [este curso](https://www.rocketseat.com.br/). *(Nota: Há um custo significativo associado a este curso.)*
-4. **Nest.JS e Microsserviços:** 
+3. **TypeScript:** Estou aprendendo usando [este curso](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/), que também cobre JavaScript.
+   > Segue o Repositorio tanto para o curso de JS quanto o de TypeScript.
+5. **Node.JS e Express:** Estou seguindo [este curso](https://www.rocketseat.com.br/). *(Nota: Há um custo significativo associado a este curso.)*
+      > Segue o Repositorio para o Node.
+7. **Nest.JS e Microsserviços:** 
    - Começarei com [este curso](https://www.udemy.com/course/nestjs-e-reactjs-do-zero-ao-avancado-utilizando-typescript/) para o básico de Nest e para aprimorar React.
    - Em seguida, irei me aprofundar mais em Nest [aqui](https://www.udemy.com/course/nestjs-the-complete-developers-guide/).
    - E por fim, aprender a usar Nest com Microsserviços [neste curso](https://www.udemy.com/course/nestjs-microservices-build-deploy-a-scaleable-backend/).
-5. **React.JS:** Estou seguindo [este curso](https://www.rocketseat.com.br/). *(Nota: Há um custo significativo associado a este curso.)*
+     > Segue o Repositorio para os cursos de Nest.
+8. **React.JS:** Estou seguindo [este curso](https://www.rocketseat.com.br/). *(Nota: Há um custo significativo associado a este curso.)*
+     > Segue o Repositorio para o cursos de React.
+
 
 ## **Roadmap da Faculdade**
 1. Desenvolvimento para Web
@@ -28,11 +33,14 @@ Este repositório foi criado para organizar, demonstrar e compartilhar os conte�
 1. HTML + CSS 
 2. OOP
 3. GIT
+4. BASH
 
 ## **Livros Recomendados**
 1. Entendendo Algoritmos
 2. Domain Driven Design
 
+## **Projetos Pessoais**
+> TODO
 ---
 
 Espero que tenham um bom dia!
